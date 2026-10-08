@@ -1,6 +1,6 @@
 # ProfileX
 
-![GitHub Release](https://img.shields.io/github/v/release/jvkec/profilex)
+![GitHub Release](https://img.shields.io/github/v/release/johnkimec/profilex)
 ![Language](https://img.shields.io/badge/language-C%2B%2B20-00599C)
 ![Status](https://img.shields.io/badge/status-MVP%20usable-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
